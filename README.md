@@ -1,4 +1,4 @@
-# RANK-DOTA-2
+# RANK DOTA 2
 
 Placar de pontuação pouco detalhado mas funcional.
 
